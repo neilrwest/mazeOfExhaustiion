@@ -1,0 +1,487 @@
+[
+  {
+    "Anagram": "Listen",
+    "Solution": "Silent",
+    "Context": "A state free from any sound or noise."
+  },
+  {
+    "Anagram": "Dorm",
+    "Solution": "Room",
+    "Context": "A space for rest or residence."
+  },
+  {
+    "Anagram": "Note",
+    "Solution": "Tone",
+    "Context": "The sound quality or pitch."
+  },
+  {
+    "Anagram": "Save",
+    "Solution": "Vase",
+    "Context": "A container often used for flowers."
+  },
+  {
+    "Anagram": "Meat",
+    "Solution": "Team",
+    "Context": "A group working together."
+  },
+  {
+    "Anagram": "Race",
+    "Solution": "Care",
+    "Context": "Concern or attention for something."
+  },
+  {
+    "Anagram": "Rest",
+    "Solution": "Terse",
+    "Context": "Concise and to the point."
+  },
+  {
+    "Anagram": "Stone",
+    "Solution": "Notes",
+    "Context": "Pieces of information written down."
+  },
+  {
+    "Anagram": "Stop",
+    "Solution": "Spot",
+    "Context": "A specific location."
+  },
+  {
+    "Anagram": "Post",
+    "Solution": "Stop",
+    "Context": "To bring to a halt."
+  },
+  {
+    "Anagram": "Parts",
+    "Solution": "Strap",
+    "Context": "A strip of material used for securing."
+  },
+  {
+    "Anagram": "Star",
+    "Solution": "Arts",
+    "Context": "Creative or imaginative skill."
+  },
+  {
+    "Anagram": "Act",
+    "Solution": "Cat",
+    "Context": "A common household pet."
+  },
+  {
+    "Anagram": "Tea",
+    "Solution": "Eat",
+    "Context": "To consume food."
+  },
+  {
+    "Anagram": "Fried",
+    "Solution": "Fired",
+    "Context": "Dismissed or terminated from a job."
+  },
+  {
+    "Anagram": "Late",
+    "Solution": "Tale",
+    "Context": "A story or narrative."
+  },
+  {
+    "Anagram": "Read",
+    "Solution": "Dear",
+    "Context": "Highly valued or cherished."
+  },
+  {
+    "Anagram": "Seat",
+    "Solution": "Eats",
+    "Context": "Consumes food."
+  },
+  {
+    "Anagram": "Dust",
+    "Solution": "Stud",
+    "Context": "A decorative nail or a strong horse."
+  },
+  {
+    "Anagram": "Heart",
+    "Solution": "Earth",
+    "Context": "The planet we live on."
+  },
+  {
+    "Anagram": "Shore",
+    "Solution": "Horse",
+    "Context": "A domesticated animal for riding."
+  },
+  {
+    "Anagram": "Santa",
+    "Solution": "Satan",
+    "Context": "Mythic opposites."
+  },
+  {
+    "Anagram": "Stressed",
+    "Solution": "Desserts",
+    "Context": "Sweet treats commonly enjoyed after a meal."
+  },
+  {
+    "Anagram": "Night",
+    "Solution": "Thing",
+    "Context": "An unspecified object or concept."
+  },
+  {
+    "Anagram": "Earn",
+    "Solution": "Near",
+    "Context": "Close in proximity."
+  },
+  {
+    "Anagram": "Seal",
+    "Solution": "Sale",
+    "Context": "An exchange of goods for money."
+  },
+  {
+    "Anagram": "Team",
+    "Solution": "Mate",
+    "Context": "A companion or partner."
+  },
+  {
+    "Anagram": "Time",
+    "Solution": "Item",
+    "Context": "A single object or unit."
+  },
+  {
+    "Anagram": "Peel",
+    "Solution": "Plee",
+    "Context": "A request or appeal."
+  },
+  {
+    "Anagram": "Cider",
+    "Solution": "Cried",
+    "Context": "The past tense of 'cry.'"
+  },
+  {
+    "Anagram": "Board",
+    "Solution": "Broad",
+    "Context": "Wide or expansive."
+  },
+  {
+    "Anagram": "Bread",
+    "Solution": "Beard",
+    "Context": "Facial hair."
+  },
+  {
+    "Anagram": "Park",
+    "Solution": "Karp",
+    "Context": "A playful twist."
+  },
+  {
+    "Anagram": "Taps",
+    "Solution": "Past",
+    "Context": "A previous time."
+  },
+  {
+    "Anagram": "Loop",
+    "Solution": "Pool",
+    "Context": "A body of water."
+  },
+  {
+    "Anagram": "Lamp",
+    "Solution": "Palm",
+    "Context": "The inside of your hand."
+  },
+  {
+    "Anagram": "Evil",
+    "Solution": "Live",
+    "Context": "To exist or survive."
+  },
+  {
+    "Anagram": "Fate",
+    "Solution": "Feat",
+    "Context": "A remarkable achievement."
+  },
+  {
+    "Anagram": "Rose",
+    "Solution": "Sore",
+    "Context": "Painful or aching."
+  },
+  {
+    "Anagram": "Love",
+    "Solution": "Vole",
+    "Context": "A small rodent."
+  },
+  {
+    "Anagram": "Fast",
+    "Solution": "Fats",
+    "Context": "Nutrients essential for the body."
+  },
+  {
+    "Anagram": "Pear",
+    "Solution": "Reap",
+    "Context": "To harvest or gather."
+  },
+  {
+    "Anagram": "Brag",
+    "Solution": "Grab",
+    "Context": "To seize or take hold of something."
+  },
+  {
+    "Anagram": "Flea",
+    "Solution": "Leaf",
+    "Context": "A part of a plant."
+  },
+  {
+    "Anagram": "Dare",
+    "Solution": "Read",
+    "Context": "To interpret written text."
+  },
+  {
+    "Anagram": "Gleam",
+    "Solution": "Megal",
+    "Context": "A prefix meaning large or great."
+  },
+  {
+    "Anagram": "Gears",
+    "Solution": "Rages",
+    "Context": "Displays intense anger."
+  },
+  {
+    "Anagram": "Lemon",
+    "Solution": "Melon",
+    "Context": "A type of fruit."
+  },
+  {
+    "Anagram": "Below",
+    "Solution": "Elbow",
+    "Context": "A joint in the arm."
+  },
+  {
+    "Anagram": "Brave",
+    "Solution": "Baver",
+    "Context": "A person who shows courage."
+  },
+  {
+    "Anagram": "Cried",
+    "Solution": "Dicer",
+    "Context": "A tool used for cutting into small pieces."
+  },
+  {
+    "Anagram": "Flame",
+    "Solution": "Fleam",
+    "Context": "An old surgical instrument."
+  },
+  {
+    "Anagram": "Giant",
+    "Solution": "Tangi",
+    "Context": "A Maori funeral rite."
+  },
+  {
+    "Anagram": "Haste",
+    "Solution": "Heats",
+    "Context": "Increases in temperature."
+  },
+  {
+    "Anagram": "Jumps",
+    "Solution": "Sumpj",
+    "Context": "A pit or reservoir."
+  },
+  {
+    "Anagram": "Knife",
+    "Solution": "Finke",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Lemon",
+    "Solution": "Melon",
+    "Context": "A type of fruit."
+  },
+  {
+    "Anagram": "Mango",
+    "Solution": "Goman",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Noble",
+    "Solution": "Belon",
+    "Context": "A type of oyster."
+  },
+  {
+    "Anagram": "Ocean",
+    "Solution": "Canoe",
+    "Context": "A small boat."
+  },
+  {
+    "Anagram": "Piano",
+    "Solution": "Apion",
+    "Context": "A genus of beetles."
+  },
+  {
+    "Anagram": "Quake",
+    "Solution": "Queak",
+    "Context": "An old term for a quack."
+  },
+  {
+    "Anagram": "Raven",
+    "Solution": "Naver",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Shine",
+    "Solution": "Sineh",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Tiger",
+    "Solution": "Grite",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Unite",
+    "Solution": "Untie",
+    "Context": "To loosen or release."
+  },
+  {
+    "Anagram": "Vigor",
+    "Solution": "Grovi",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Whale",
+    "Solution": "Wheal",
+    "Context": "A small raised area on the skin."
+  },
+  {
+    "Anagram": "Xenon",
+    "Solution": "Noxen",
+    "Context": "Plural of nox."
+  },
+  {
+    "Anagram": "Yield",
+    "Solution": "Idley",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Zebra",
+    "Solution": "Braze",
+    "Context": "To solder with an alloy."
+  },
+  {
+    "Anagram": "Apple",
+    "Solution": "Papel",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Bread",
+    "Solution": "Debar",
+    "Context": "To exclude or prohibit."
+  },
+  {
+    "Anagram": "Cider",
+    "Solution": "Dicer",
+    "Context": "A tool used for cutting into small pieces."
+  },
+  {
+    "Anagram": "Dance",
+    "Solution": "Caned",
+    "Context": "Punished with a cane."
+  },
+  {
+    "Anagram": "Eagle",
+    "Solution": "Galee",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Fable",
+    "Solution": "Befal",
+    "Context": "An old term for befell."
+  },
+  {
+    "Anagram": "Globe",
+    "Solution": "Bogle",
+    "Context": "A ghost or phantom."
+  },
+  {
+    "Anagram": "Horse",
+    "Solution": "Shore",
+    "Context": "The land along the edge of a sea or lake."
+  },
+  {
+    "Anagram": "Igloo",
+    "Solution": "Logoi",
+    "Context": "Plural of logos."
+  },
+  {
+    "Anagram": "Joker",
+    "Solution": "Jorek",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Kneel",
+    "Solution": "Kleen",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Liver",
+    "Solution": "Viler",
+    "Context": "More morally bad."
+  },
+  {
+    "Anagram": "Mirth",
+    "Solution": "Thrim",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Noble",
+    "Solution": "Belon",
+    "Context": "A type of oyster."
+  },
+  {
+    "Anagram": "Ocean",
+    "Solution": "Canoe",
+    "Context": "A small boat."
+  },
+  {
+    "Anagram": "Piano",
+    "Solution": "Apion",
+    "Context": "A genus of beetles."
+  },
+  {
+    "Anagram": "Quake",
+    "Solution": "Queak",
+    "Context": "An old term for a quack."
+  },
+  {
+    "Anagram": "Raven",
+    "Solution": "Naver",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Shine",
+    "Solution": "Sineh",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Tiger",
+    "Solution": "Grite",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Unite",
+    "Solution": "Untie",
+    "Context": "To loosen or release."
+  },
+  {
+    "Anagram": "Vigor",
+    "Solution": "Grovi",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Whale",
+    "Solution": "Wheal",
+    "Context": "A small raised area on the skin."
+  },
+  {
+    "Anagram": "Xenon",
+    "Solution": "Noxen",
+    "Context": "Plural of nox."
+  },
+  {
+    "Anagram": "Yield",
+    "Solution": "Idley",
+    "Context": "A surname."
+  },
+  {
+    "Anagram": "Zebra",
+    "Solution": "Braze",
+    "Context": "To solder with an alloy."
+  }
+]
