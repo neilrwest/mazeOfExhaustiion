@@ -14,7 +14,7 @@ public partial class AdventureGame
     private readonly List<Room> allRooms = new List<Room>();
     private static List<Bomb> bombs = new List<Bomb>();
     
-    // color codes (ANSI sequences). 
+    // colour codes (ANSI sequences). 
     private const string RESET = "\u001B[0m";   
     private const string BLACK = "\u001B[0;30m";   
     private const string RED = "\u001B[0;31m";     
