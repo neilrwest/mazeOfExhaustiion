@@ -198,7 +198,7 @@ public class Bomb
 }
 
 
-// Helper Function for Breadthe First Search
+// Generic Class for Breadth First Search
 public class Deque<T>
 {
     private LinkedList<T> list = new LinkedList<T>();
