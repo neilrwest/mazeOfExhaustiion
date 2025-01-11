@@ -1,5 +1,5 @@
 # mazeOfExhaustiion
-Adventure text-based game written in C#. Gameplay is faily mundane but the use of recursive graph algorthims BFS and DFS used to setup the maze are fairly advanced. Also demontrates the use of cross-referential classes.
+Adventure text-based game written in C#. Gameplay is fairly mundane but the use of recursive graph algorthims BFS and DFS used to setup the maze are fairly advanced. Also demontrates the use of cross-referential classes.
 
 - At the start of the game a random maze of rooms is set up that you can traverse. You will need to build a mental map of the grid or draw it on a piece of paper as you proceed. Knock on walls to feel your way around in the dark.
 - You are trying to navigate from a starting room to a finishing room but you will need all six flowers when entering the final room to win the game.
